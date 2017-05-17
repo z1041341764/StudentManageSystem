@@ -35,11 +35,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("宋体", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(278, 9);
+            this.label1.Location = new System.Drawing.Point(374, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(295, 35);
+            this.label1.Size = new System.Drawing.Size(85, 35);
             this.label1.TabIndex = 0;
-            this.label1.Text = "学生信息管理系统";
+            this.label1.Text = "登录";
             // 
             // Form1
             // 
